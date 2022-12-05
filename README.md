@@ -38,3 +38,14 @@ Q = cm\Delta T\\
 E_r = k\frac{q}{r^{2}})
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVP8iI3D8=/?moveToViewport=83,-975,1385,676&embedId=984897079287" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Кнопка-изображение &lt;input&gt;</title>
+	<body>
+		<h1>Кнопка-изображение &lt;input&gt;</h1>
+		<input type="image" src="/images/blog/72/button.png" alt="Кнопка «input»">
+	</body>
+</html>
