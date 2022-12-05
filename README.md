@@ -4,23 +4,23 @@
 .button_1670212770427 {
     display: inline-block !important;
     text-decoration: none !important;
-    background-color: #686363 !important;
+    background-color: #232422 !important;
     color: #ffffff !important;
     border: 0px solid #000000 !important;
-    border-radius: 5px !important;
+    border-radius: 8px !important;
     font-size: 38px !important;
-    padding: 13px 100px !important; 
+    padding: 0px 100px !important; 
     transition: all 0.8s ease !important;
 }
 .button_1670212770427:hover{
     text-decoration: none !important; 
-    background-color: #32482c !important;
-    color: #ffffff !important;
+    background-color: #f2f2f2 !important;
+    color: #2e342c !important;
     border-color: #006089 !important;
 }
 </style>
 <a href="https://github.com/INullOP/INullOP.github.io" class="button_1670212770427" target="_blank">
-  Мой Гит
+  GitHub
 </a>
 
 >SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' <br>
