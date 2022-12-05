@@ -36,5 +36,5 @@ E_r = k\frac{q}{r^{2}})
 }
 </style>
 <a href="https://github.com/INullOP/INullOP.github.io" class="button_1670212770427" target="_blank">
-  Кнопка
+  Мой Гит
 </a>
