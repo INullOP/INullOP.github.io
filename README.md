@@ -44,7 +44,7 @@ E_r = k\frac{q}{r^{2}})
 		<meta charset="utf-8">
 		<title>Кнопка-изображение </title>
 	<body>
-		<h1>Кнопка-изображение &lt;input&gt;</h1>
+		<h1>Кнопка-изображение </h1>
 		<input type="image" src="/images/blog/72/button.png" alt="Кнопка «input»">
 	</body>
 </html>
