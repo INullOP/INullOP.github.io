@@ -39,7 +39,6 @@ E_r = k\frac{q}{r^{2}})
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVP8iI3D8=/?moveToViewport=83,-975,1385,676&embedId=984897079287" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="utf-8">
