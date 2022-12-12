@@ -39,12 +39,5 @@ E_r = k\frac{q}{r^{2}})
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVP8iI3D8=/?moveToViewport=83,-975,1385,676&embedId=984897079287" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<html>
-	<head>
-		<meta charset="utf-8">
-		<title>Кнопка-изображение </title>
-	<body>
-		<h1>Кнопка-изображение </h1>
-		<input type="image" src="/images/blog/72/button.png" alt="Кнопка «input»">
-	</body>
-</html>
+
+![NewYear](https://avatars.mds.yandex.net/i?id=871f5d0efac381093000f4ad78016fa75cc0a4a2-7455892-images-thumbs&n=13)
