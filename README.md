@@ -42,3 +42,16 @@ E_r = k\frac{q}{r^{2}})
 
 
 ![NewYear](https://avatars.mds.yandex.net/i?id=871f5d0efac381093000f4ad78016fa75cc0a4a2-7455892-images-thumbs&n=13)
+
+#Commands Used:
+1. print
+2. for i in range(x, y, z)
+3. if/elif/else
+4. break
+5. import(turtle, itertools, random)
+6. turtle: 1)left 2)speed 3)right 4)forward 5)up 6)goto 7)dot 8)done
+7. with open('') as f
+8. def(x)/return
+9. while
+10. replace
+11. read
