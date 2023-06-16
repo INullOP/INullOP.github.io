@@ -38,4 +38,5 @@ import webbrowser
 while True:
     ct = datetime.now()
     if ct.hour == 9:
-        webbrowser.open("https://kpolyakov.spb.ru/school/ege/gen.php?action=viewVar&select=7FFFFFF&answers=on&varId=", new=2)
+        webbrowser.open('https://kpolyakov.spb.ru/school/ege/gen.php?action=viewVar&select=7FFFFFF&answers=on&varId=', new=2)
+        break
