@@ -30,28 +30,12 @@
 
 ![txt](https://user-images.githubusercontent.com/114376270/200225977-bbc83422-53fd-4fa7-97f2-883cc2b02b2f.png)
 
-1. U = 3/2vRT
-2. Q = cm(delta T)
-3. Er = kq/r^2
+https://kpolyakov.spb.ru/school/ege/gen.php?action=viewVar&select=7FFFFFF&answers=on&varId=
 
-U = \frac{3}{2}\nu RT \\
-Q = cm\Delta T\\
-E_r = k\frac{q}{r^{2}})
+from datetime import datetime
+import webbrowser
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVP8iI3D8=/?moveToViewport=83,-975,1385,676&embedId=984897079287" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
-
-![NewYear](https://avatars.mds.yandex.net/i?id=871f5d0efac381093000f4ad78016fa75cc0a4a2-7455892-images-thumbs&n=13)
-
-#Commands Used:
-1. print
-2. for i in range(x, y, z)
-3. if/elif/else
-4. break
-5. import(turtle, itertools, random)
-6. turtle: 1)left 2)speed 3)right 4)forward 5)up 6)goto 7)dot 8)done
-7. with open('') as f
-8. def(x)/return
-9. while
-10. replace
-11. read
+while True:
+    ct = datetime.now()
+    if ct.hour == 9:
+        webbrowser.open("https://kpolyakov.spb.ru/school/ege/gen.php?action=viewVar&select=7FFFFFF&answers=on&varId=", new=2)
