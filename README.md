@@ -30,7 +30,7 @@
 
 ![txt](https://user-images.githubusercontent.com/114376270/200225977-bbc83422-53fd-4fa7-97f2-883cc2b02b2f.png)
 
-https://kpolyakov.spb.ru/school/ege/gen.php?action=viewVar&select=7FFFFFF&answers=on&varId=
+https://stepik.org/lesson/1016309/step/1?unit=1024218
 
 from datetime import datetime
 import webbrowser
